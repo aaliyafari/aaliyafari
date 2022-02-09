@@ -8,13 +8,13 @@
 
 <i>**Glad To See You Here!**</i> ✨
 
-- 🔭 I’m currently working on **[Lynda Clone](https://github.com/Sachi4496/Udemy-Clone-Backend)**
+- 🔭 I’m currently working on **[Lynda Clone](https://github.com/aaliyafari/LyndaCloneTeam18.git)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 🤝 I’m looking to collaborate on OpenSource Projects </p> 
 
-- 👨‍💻 Know more about me at - **[My Portfolio](https://.vercel.app)**
+- 👨‍💻 Know more about me at - **[My Portfolio]()**
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
