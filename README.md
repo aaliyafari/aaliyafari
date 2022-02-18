@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking to collaborate on OpenSource Projects </p> 
 
-- 👨‍💻 Know more about me at - **[My Portfolio](https://portfolio-git-main-aaliyafari.vercel.app/)**
+- 👨‍💻 Know more about me at - **[My Portfolio](https://portfolio-aaliyafari.vercel.app/)**
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
